@@ -1,0 +1,10 @@
+#package specification
+#Sat Oct 05 16:11:30 CEST 2013
+masktools-version=2.2
+applet-major=1
+applet.Smartcard-aid=ABCDEF1235
+jcop-packages=applet
+applet-clazzes=applet.Smartcard
+applet-minor=0
+applet-aid=ABCDEF1234
+applet-base=internal
